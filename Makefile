@@ -15,6 +15,7 @@ run_main_openmp:openMP
 clean:
 	rm openMP
 
-run_gnuplot:time_run_op.p
+run_gnuplot:time_run_op.p bandwidth_run_op.p 
 	gnuplot time_run_op.p
+	gnuplot bandwidth_run_op.p
 

@@ -48,6 +48,11 @@ int main(int argc,char **argv)
 	FILE *time_dat=fopen("time_dat.dat","a");
 	fprintf(time_dat,"%d %f\n",n,total_t);
 
+	double bw=(large_array_size*4*3)/(total_t*1e9);
+	FILE *eff_ban=fopen("bandwidth.dat","a");
+	fprintf(eff_ban,"%d %f\n",n,bw);
+
+
 
 
 	delete(ptrs);

@@ -47,33 +47,43 @@
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='black'  d='M71.9,377.7 L80.9,377.7 M575.0,377.7 L566.0,377.7  '/>	<g transform="translate(63.6,381.6)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
+	<path stroke='black'  d='M71.9,393.9 L80.9,393.9 M575.0,393.9 L566.0,393.9  '/>	<g transform="translate(63.6,397.8)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
 		<text><tspan font-family="Arial" > 1</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='black'  d='M71.9,313.0 L80.9,313.0 M575.0,313.0 L566.0,313.0  '/>	<g transform="translate(63.6,316.9)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
+	<path stroke='black'  d='M71.9,345.3 L80.9,345.3 M575.0,345.3 L566.0,345.3  '/>	<g transform="translate(63.6,349.2)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
 		<text><tspan font-family="Arial" > 1.5</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='black'  d='M71.9,248.2 L80.9,248.2 M575.0,248.2 L566.0,248.2  '/>	<g transform="translate(63.6,252.1)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
+	<path stroke='black'  d='M71.9,296.8 L80.9,296.8 M575.0,296.8 L566.0,296.8  '/>	<g transform="translate(63.6,300.7)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
 		<text><tspan font-family="Arial" > 2</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='black'  d='M71.9,183.5 L80.9,183.5 M575.0,183.5 L566.0,183.5  '/>	<g transform="translate(63.6,187.4)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
+	<path stroke='black'  d='M71.9,248.2 L80.9,248.2 M575.0,248.2 L566.0,248.2  '/>	<g transform="translate(63.6,252.1)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
 		<text><tspan font-family="Arial" > 2.5</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='black'  d='M71.9,118.8 L80.9,118.8 M575.0,118.8 L566.0,118.8  '/>	<g transform="translate(63.6,122.7)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
+	<path stroke='black'  d='M71.9,199.7 L80.9,199.7 M575.0,199.7 L566.0,199.7  '/>	<g transform="translate(63.6,203.6)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
 		<text><tspan font-family="Arial" > 3</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='black'  d='M71.9,54.1 L80.9,54.1 M575.0,54.1 L566.0,54.1  '/>	<g transform="translate(63.6,58.0)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
+	<path stroke='black'  d='M71.9,151.2 L80.9,151.2 M575.0,151.2 L566.0,151.2  '/>	<g transform="translate(63.6,155.1)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
 		<text><tspan font-family="Arial" > 3.5</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M71.9,102.6 L80.9,102.6 M575.0,102.6 L566.0,102.6  '/>	<g transform="translate(63.6,106.5)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="Arial" > 4</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M71.9,54.1 L80.9,54.1 M575.0,54.1 L566.0,54.1  '/>	<g transform="translate(63.6,58.0)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="Arial" > 4.5</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
@@ -127,29 +137,29 @@
 	<path stroke='black'  d='M71.9,54.1 L71.9,442.4 L575.0,442.4 L575.0,54.1 L71.9,54.1 Z  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<g transform="translate(16.3,248.3) rotate(270)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="middle">
-		<text><tspan font-family="Arial" >time in seconds</tspan></text>
+		<text><tspan font-family="Arial" >effective bandwidth GB/s</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<g transform="translate(323.4,491.3)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="middle">
-		<text><tspan font-family="Arial" >sizeof cached</tspan></text>
+		<text><tspan font-family="Arial" >size of cached memory(/мегабайт)</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<g transform="translate(323.4,31.0)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="middle">
-		<text><tspan font-family="Arial" >stats of openMP</tspan></text>
+		<text><tspan font-family="Arial" >bandwidth</tspan></text>
 	</g>
 </g>
-	<g id="gnuplot_plot_1" ><title>'time_dat.dat'</title>
+	<g id="gnuplot_plot_1" ><title>'bandwidth.dat'</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<g transform="translate(507.9,76.0)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
-		<text>'time_dat.dat'</text>
+		<text>'bandwidth.dat'</text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='rgb(148,   0, 211)'  d='M516.2,72.1 L558.4,72.1 M103.3,406.8 L134.8,397.3 L166.2,318.0 L197.7,249.3 L229.1,192.6 L260.6,170.7
-		L292.0,150.1 L323.5,136.4 L354.9,124.1 L386.3,116.5 L417.8,107.7 L449.2,94.7 L480.7,92.6 L512.1,93.5
-		L543.6,89.2 L575.0,85.9  '/></g>
+	<path stroke='rgb(148,   0, 211)'  d='M516.2,72.1 L558.4,72.1 M103.3,87.6 L134.8,122.5 L166.2,276.9 L197.7,334.0 L229.1,362.3 L260.6,370.6
+		L292.0,377.6 L323.5,381.8 L354.9,385.3 L386.3,387.3 L417.8,389.6 L449.2,392.8 L480.7,393.3 L512.1,393.1
+		L543.6,394.1 L575.0,394.8  '/></g>
 	</g>
 <g fill="none" color="white" stroke="rgb(148,   0, 211)" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
